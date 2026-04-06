@@ -1,7 +1,7 @@
 <div>
 <p>
 <a href="https://github.com/SahLendaria">
-<img src="https://github.com/dfilitto/dfilitto/blob/main/imagens/Banner%20Github.png?raw=true" width="100%" height="auto"/>
+<img src="https://github.com/SahLendaria/SahLendaria/tree/main/imgs" width="100%" height="auto"/>
 </a>
 </p>
 <p align="right">
